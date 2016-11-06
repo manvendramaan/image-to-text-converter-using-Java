@@ -1,5 +1,8 @@
 # image-to-text-converter-using-Java
-This repository aims to develop an application that can be used to translate the images of any format to the text format.   Features - It convert the standard font texts and handwritten texts from image files into editable text files.  Technology - Java  IDE - NetBeans
+This repository aims to develop an application that can be used to translate the images of any format to the text format.   
+Features - It convert the standard font texts and handwritten texts from image files into editable text files.  
+Technology - Java  
+IDE - NetBeans
 
 Limitations -
 Some strips condition for letters already defined (particularly for A, B, C & D only). So, accordingly more strips conditions can be applied for rest letters.
